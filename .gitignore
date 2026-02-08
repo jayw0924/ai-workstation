@@ -1,0 +1,32 @@
+# Environment variables (API keys)
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+ai-env/
+venv/
+.venv/
+
+# ChromaDB
+chroma_db/
+*.chroma
+
+# Data directories (your personal documents)
+markdown-rag/data/
+*/data/
+*.pdf
+*.docx
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
