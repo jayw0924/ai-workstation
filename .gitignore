@@ -30,3 +30,7 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Research Agent outputs
+research-agent/research_outputs/
+research-agent/*.log

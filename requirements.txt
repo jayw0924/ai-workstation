@@ -1,0 +1,5 @@
+
+# Research Agent dependencies
+ddgs
+newspaper3k
+lxml_html_clean

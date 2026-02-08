@@ -217,3 +217,24 @@ GitHub: [@jay0924](https://github.com/jay0924)
 ---
 
 **Built with ❤️ on Fedora Linux**
+
+## 🔬 Research Agent
+
+**Location:** `research-agent/`
+
+Autonomous agent that researches topics by searching the web, analyzing sources, and generating comprehensive reports.
+
+### Quick Start
+```bash
+cd research-agent
+python research_agent.py "Your research topic"
+```
+
+**Features:**
+- Web search and content scraping
+- AI-powered synthesis with Claude
+- Automatic report generation
+- Source citations
+- Saves to knowledge base
+
+See [research-agent/README.md](research-agent/README.md) for details.
